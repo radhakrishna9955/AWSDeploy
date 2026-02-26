@@ -11,6 +11,6 @@ public class CseController {
 	}
 	@GetMapping("/adityait")
 		public String rocks1() {
-			return "welcome to aditya it team";
+			return "welcome to jenkins";
 		}
 }
